@@ -26,7 +26,7 @@ no_of_stops   : Number of slave top agent
 
 Detailed description of AXI4 can be found in :
 
-[https://en.wikipedia.org/wiki/Serial_Peripheral_Interface](https://en.wikipedia.org/wiki/Advanced_eXtensible_Interface)
+(https://en.wikipedia.org/wiki/Advanced_eXtensible_Interface)
 
 ## Test Configuration
 
